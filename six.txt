@@ -16,4 +16,9 @@ this is src
 >>>>>>> src
 this one branch
 this is the two text
+<<<<<<< HEAD
 Creating a new branch is quick & simple
+=======
+Creating a new branch is quick and simple
+>>>>>>> feat
+Creating a new branch is quick and simple
