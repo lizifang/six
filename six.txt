@@ -9,4 +9,8 @@ this is the seven nodifier
 this is the eight modifier
 this is the nine modifier
 it is a master
+<<<<<<< HEAD
 this is src1
+=======
+this is src
+>>>>>>> src
